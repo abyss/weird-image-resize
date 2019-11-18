@@ -1,7 +1,7 @@
 {
-  "name": "image-resizer",
+  "name": "weird-image-resize",
   "version": "1.0.0",
-  "description": "created to bulk resize images for thegamecrafter",
+  "description": "bulk resize images for thegamecrafter by stretching them behind themselves",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
